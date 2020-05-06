@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">YandexWeather</string>
+    <string name="forecast_for_today">Прогноз на сегодня</string>
+    <string name="forecast_for_week">Прогноз на неделю</string>
+    <string name="type_city">Введите город</string>
+    <string name="city_was_typed_incorrectly">Город введён неверно</string>
+    <string name="today">\ (сегодня)\</string>
+    <string name="sunrise_is_in">\Рассвет в: \</string>
+    <string name="default_font_path">fonts/RobotoCondensed-Regular.ttf</string>
+    <string name="hint_type_city">Введите город</string>
+    <string name="night">Ночь:</string>
+    <string name="morning">Утро:</string>
+    <string name="afternoon">День:</string>
+    <string name="evening">Вечер:</string>
+    <string name="format">json</string>
+    <string name="yandex_api_key">db398cfd-4b53-4c14-a7c4-04506e823080</string>
+    <string name="okay">OK</string>
+</resources>
