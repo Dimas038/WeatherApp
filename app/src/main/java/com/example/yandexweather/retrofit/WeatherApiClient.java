@@ -18,7 +18,7 @@ public interface WeatherApiClient {
     String HOURS = "hours";
 
     @GET("forecast")
-    @Headers("X-Yandex-API-Key: ae0b8b77-d7d7-40c0-a3fc-c3c598d26082")
+    @Headers("X-Yandex-API-Key: c843b52e-1efe-4838-beaf-4c42a0144aac")
     Call<WeatherResponse> weatherGet(@Query(LAT) double lat, @Query(LON) double lon,
                                      @Query(LANG) String lang, @Query(LIMIT) int limit,
                                      @Query(HOURS) boolean hours);
